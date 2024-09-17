@@ -23,4 +23,4 @@ The dataset used in this project is the Pima Indians Diabetes Dataset, which can
 
 ## Results
 
-The logistic regression model achieved an accuracy of [insert accuracy here] on the test set, demonstrating its effectiveness in predicting diabetes based on the given diagnostic measurements.
+The logistic regression model achieved an accuracy of 68% on the test set, demonstrating its effectiveness in predicting diabetes based on the given diagnostic measurements.
